@@ -7,3 +7,8 @@ Updates on Task 1: Rather than using an API, there is a google sheets extension 
 
 While we did not have access to the ArcGIS Data Pipelining tools, I learned that for the sake of testing, ArcGIS does allow for Map Viewer to display coordinates with data, if a CSV is uploaded to it, and can easily display the points if provided the latitude and longitude. [![Source:](https://img.youtube.com/vi/avrVc4QGwWU/maxresdefault.jpg)](https://www.youtube.com/watch?v=avrVc4QGwWU)
 
+
+Task 2: Filtering Logic - Need a way to efficiently search the data based on different 
+
+MySQL Database
+
