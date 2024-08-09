@@ -12,3 +12,12 @@ Task 2: Filtering Logic - Need a way to efficiently search the data based on dif
 
 MySQL Database
 
+https://www.youtube.com/watch?v=Z_suQfsu4xc
+
+https://www.youtube.com/watch?v=DZR9uCw-XZM
+
+https://www.youtube.com/watch?v=gqgRifikZWQ
+
+https://www.youtube.com/watch?v=avrVc4QGwWU
+
+https://www.youtube.com/watch?v=qnvwVYTpuMI
